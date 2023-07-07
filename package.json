@@ -47,7 +47,7 @@
         "gulp-tap": "^0.1.3",
         "picklog": "^2.1.3",
         "postcss-discard-comments": "^2.0.4",
-        "stylelint": "^13.0.0",
+        "stylelint": "^15.10.1",
         "stylelint-config-standard": "^19.0.0",
         "yargs": "^1.3.3"
     }
